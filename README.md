@@ -97,6 +97,6 @@ O projeto calcula automaticamente:
 
 ## 🧑‍💻 Autor
 
-Projeto desenvolvido por João Vitor Givisiez Lessa e Rafael Rabelo Pereira Damaso como parte da disciplina de Teoria dos Grafos — [UEM](https://www.uem.br).
+Projeto desenvolvido por João Vitor Givisiez Lessa e Rafael Rabelo Pereira Damaso como parte da disciplina de Teoria dos Grafos — UFLA
 
 ---
